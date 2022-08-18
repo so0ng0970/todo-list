@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "todo-list",
+			"path": "..\\todo-list"
+		}
+	],
+	"settings": {}
+}
